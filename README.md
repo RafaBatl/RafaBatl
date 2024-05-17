@@ -3,7 +3,7 @@
 
 💜-☆Ola meu nome é Rafaela lopes bolet☆-💜
 
--Sou estudante do ensino medio que esta fazendo o curso do alura
+-Sou estudante do ensino medio que esta fazendo o curso do [Alura](https://www.alura.com.br)
 -estudamos isso para o nosso desenvolvimento e ter pelo menos uma experiencia com softwer
 -tenho meus 17 anos e sou do terceiro ano
 -usamos isso para coisas didaticas ou por diversão mesmo
@@ -19,4 +19,4 @@
 -0000110972164@al.educacao.sp.gov.br
 -rafaela.boleya@ <💜 meu instagram
 
-https://media.tenor.com/9lRjN-Sr204AAAAi/anime-anime-hug.gif
+ ![](https://media.tenor.com/9lRjN-Sr204AAAAi/anime-anime-hug.gif)
